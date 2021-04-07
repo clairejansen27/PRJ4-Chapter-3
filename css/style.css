@@ -1,0 +1,53 @@
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+#Leafs {
+	background-image: url("../images/LeafHeader.jpg");
+	background-size: cover;
+	padding-bottom: 7%;
+	margin-bottom: 10px;
+}
+
+.pagetitle {
+	font-family: 'Roboto', sans-serif;
+	color: #FFFFFF;
+	font-size: 32pt;
+	text-align: center;
+	}
+
+.opening{
+	font-family: 'Roboto', sans-serif;
+	font-size: 11pt;
+	text-align: center;
+}
+
+.my-class {
+	font-family: 'Roboto', sans-serif;
+	color:#FFFFFF;
+	font-size: 20pt;
+	background-color: #2C5734;
+	border: 4px medium #D9B401;
+	text-align: center;
+	padding: 0.7em;
+}
+
+.article{
+	font-family: 'Roboto', sans-serif;
+	font-size: 11pt;	
+}
+
+.ArticleTitle{
+	font-family: 'Roboto', sans-serif;
+	font-size: 17pt;
+}
+
+
+.my-container {
+    padding: 15px 50px 20px;
+	border: 5px #2C5734;
+
+}
+#my-id {
+	font-family: 'Roboto', sans-serif;
+	color: #2E02CC;
+	font-size: 11pt;
+}
